@@ -61,10 +61,10 @@ print("\nTop 5 Genres:\n", top_genres, "\n")
 ```
 
 **Ouptut**
-<img width="1066" height="522" alt="eda exp 2 d" src="https://github.com/user-attachments/assets/6882708f-dd43-42b3-94f8-6c899ad6529c" />
-<img width="1062" height="592" alt="eda exp 2 c" src="https://github.com/user-attachments/assets/7d315811-18b0-406a-b5b3-75681f805923" />
-<img width="1062" height="870" alt="eda exp 2 b" src="https://github.com/user-attachments/assets/93341aa8-41d6-457e-9687-cc66596026e5" />
-<img width="1065" height="818" alt="eda exp 2 a" src="https://github.com/user-attachments/assets/bc7ed4a9-a8cc-4a87-a321-26e6756969cb" />
+<img width="1065" height="818" alt="eda exp 2 a" src="https://github.com/user-attachments/assets/aae3c942-e2b6-498a-8b16-fae1d368da21" />
+<img width="1062" height="870" alt="eda exp 2 b" src="https://github.com/user-attachments/assets/232181f9-27a7-4eba-a347-b003c9396133" />
+<img width="1062" height="592" alt="eda exp 2 c" src="https://github.com/user-attachments/assets/23cf156b-dcd0-4024-90e6-684119bee36c" />
+<img width="1066" height="522" alt="eda exp 2 d" src="https://github.com/user-attachments/assets/50887169-3b7a-44e3-8185-9c8ff4745442" />
 
 **Result**
 Helps Netflix in content planning & investments.
